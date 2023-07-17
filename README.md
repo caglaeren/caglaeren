@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, My name is Çağla Eren.</h1>
-<h3 align="left">I am a Computer Engineering Student. </h3>
-<h4 align="left"> I love developing web projects. 👩‍💻 </h4>
+<h2 align="left">I am a Computer Engineering Student. </h2>
+<h3 align="left"> I love developing web projects. 👩‍💻 </h3>
 
 - 🌱 I’m currently learning **ReactJs and NodeJs.**
 
