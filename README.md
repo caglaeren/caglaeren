@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/çağla-eren-65140a233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="çağla-eren-65140a233" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cagla-eren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="çağla-eren-65140a233" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
