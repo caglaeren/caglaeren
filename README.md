@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Çağla Eren.</h1>
-<h3 align="center">I am a Computer Engineer. I love developing web projects and machine learning projects. 👩‍💻</h3>
+<h3 align="center">I am a Computer Engineer. I love developing web projects and data science projects. 👩‍💻</h3>
 
 - 🌱 I’m currently learning **ReactJs, ML and Data Science.**
 
