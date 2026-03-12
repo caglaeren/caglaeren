@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Çağla Eren.</h1>
 <h3 align="center">I am a Computer Engineer. I love developing web projects and data science projects. 👩‍💻</h3>
 
-- 🌱 I’m currently learning **ML and Data Science, Deep Learning and LLM.**
+- 🌱 I’m currently learning **Machine Learning, Data Science, Deep Learning and LLM.**
 
 - 📫 How to reach me **tugbacaglaeren@gmail.com**
 
