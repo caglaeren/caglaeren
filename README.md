@@ -19,6 +19,9 @@
 - 🌱 Currently, I am deeply focused on learning and developing projects in **Deep Learning** and **Retrieval-Augmented Generation (RAG)**.
 - 💻 I love building end-to-end AI solutions using **Python, PyTorch, and FastAPI**.
 - 📫 Let's connect: **tugbacaglaeren@gmail.com**
+- 🤝 **Connect with me:** <a href="https://linkedin.com/in/cagla-eren" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" width="25" style="vertical-align:middle; margin-left: 5px;" />
+  </a>
 
 ---
 
@@ -49,14 +52,6 @@
 </table>
 
 ---
-
-### 🤝 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/cagla-eren" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caglaeren&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
